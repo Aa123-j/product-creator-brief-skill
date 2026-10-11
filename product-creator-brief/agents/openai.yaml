@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品创意与达人 Brief"
+  short_description: "生成多方向产品创意、达人定制 Brief 和短视频脚本，支持 Instagram 素材采集"
+  default_prompt: "使用 $product-creator-brief，根据我提供的产品资料和达人样本生成创意、英文 Brief 与音画脚本；需要参考素材时，在明确预算内使用 SocialKit 采集 Instagram 视频。"

@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+work/
+creative-context/
+private/
+**/private/
+socialkit.json
+**/socialkit.json
+*.mp4
+*.mov
+*.wav
+*.pdf
+*.docx
